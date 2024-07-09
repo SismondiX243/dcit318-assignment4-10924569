@@ -1,0 +1,10 @@
+C:\Users\GALLY sismondi\source\repos\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\GALLY sismondi\source\repos\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\GALLY sismondi\source\repos\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\GALLY sismondi\source\repos\Assignment4\Assignment4\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\GALLY sismondi\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4.Form1.resources
+C:\Users\GALLY sismondi\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4.Properties.Resources.resources
+C:\Users\GALLY sismondi\source\repos\Assignment4\Assignment4\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\GALLY sismondi\source\repos\Assignment4\Assignment4\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\GALLY sismondi\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\GALLY sismondi\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4.pdb

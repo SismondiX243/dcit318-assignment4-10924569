@@ -1,0 +1,10 @@
+C:\Users\GALLY sismondi\source\repos\Assignment4\CanvasSketch\bin\Debug\CanvasSketch.exe.config
+C:\Users\GALLY sismondi\source\repos\Assignment4\CanvasSketch\bin\Debug\CanvasSketch.exe
+C:\Users\GALLY sismondi\source\repos\Assignment4\CanvasSketch\bin\Debug\CanvasSketch.pdb
+C:\Users\GALLY sismondi\source\repos\Assignment4\CanvasSketch\obj\Debug\CanvasSketch.csproj.AssemblyReference.cache
+C:\Users\GALLY sismondi\source\repos\Assignment4\CanvasSketch\obj\Debug\CanvasSketch.Form1.resources
+C:\Users\GALLY sismondi\source\repos\Assignment4\CanvasSketch\obj\Debug\CanvasSketch.Properties.Resources.resources
+C:\Users\GALLY sismondi\source\repos\Assignment4\CanvasSketch\obj\Debug\CanvasSketch.csproj.GenerateResource.cache
+C:\Users\GALLY sismondi\source\repos\Assignment4\CanvasSketch\obj\Debug\CanvasSketch.csproj.CoreCompileInputs.cache
+C:\Users\GALLY sismondi\source\repos\Assignment4\CanvasSketch\obj\Debug\CanvasSketch.exe
+C:\Users\GALLY sismondi\source\repos\Assignment4\CanvasSketch\obj\Debug\CanvasSketch.pdb

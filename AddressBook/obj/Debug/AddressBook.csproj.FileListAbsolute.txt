@@ -1,0 +1,10 @@
+C:\Users\GALLY sismondi\source\repos\Assignment4\AddressBook\bin\Debug\AddressBook.exe.config
+C:\Users\GALLY sismondi\source\repos\Assignment4\AddressBook\bin\Debug\AddressBook.exe
+C:\Users\GALLY sismondi\source\repos\Assignment4\AddressBook\bin\Debug\AddressBook.pdb
+C:\Users\GALLY sismondi\source\repos\Assignment4\AddressBook\obj\Debug\AddressBook.csproj.AssemblyReference.cache
+C:\Users\GALLY sismondi\source\repos\Assignment4\AddressBook\obj\Debug\AddressBook.Form1.resources
+C:\Users\GALLY sismondi\source\repos\Assignment4\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+C:\Users\GALLY sismondi\source\repos\Assignment4\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+C:\Users\GALLY sismondi\source\repos\Assignment4\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\GALLY sismondi\source\repos\Assignment4\AddressBook\obj\Debug\AddressBook.exe
+C:\Users\GALLY sismondi\source\repos\Assignment4\AddressBook\obj\Debug\AddressBook.pdb
